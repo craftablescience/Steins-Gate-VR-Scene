@@ -19,7 +19,6 @@ ScriptsOnlyBuild:
     - TMPro.TMP_Settings
     - TMPro.TMP_SpriteAsset
     - TMPro.TMP_StyleSheet
-    - TMPro.TextMeshPro
     UnityEditor.TestRunner.dll:
     - UnityEditor.TestTools.TestRunner.Api.CallbacksHolder
   sceneClasses:
@@ -47,6 +46,8 @@ ScriptsOnlyBuild:
     - Class: 54
       Script: {instanceID: 0}
     - Class: 64
+      Script: {instanceID: 0}
+    - Class: 65
       Script: {instanceID: 0}
     - Class: 81
       Script: {instanceID: 0}
@@ -92,8 +93,6 @@ ScriptsOnlyBuild:
       Script: {instanceID: 12120}
     - Class: 114
       Script: {instanceID: 12206}
-    - Class: 114
-      Script: {instanceID: 12346}
     - Class: 115
       Script: {instanceID: 0}
     - Class: 128
@@ -103,10 +102,6 @@ ScriptsOnlyBuild:
     - Class: 143
       Script: {instanceID: 0}
     - Class: 157
-      Script: {instanceID: 0}
-    - Class: 222
-      Script: {instanceID: 0}
-    - Class: 224
       Script: {instanceID: 0}
     - Class: 258
       Script: {instanceID: 0}
@@ -1668,4 +1663,4 @@ ScriptsOnlyBuild:
   platform: 13
   scenePathNames:
   - Assets/Scenes/SampleScene.unity
-  playerPath: C:/Users/Brend/OneDrive/Desktop/Steins;Gate VR Scene/Build/0.0.2.apk
+  playerPath: C:/Users/Brend/OneDrive/Desktop/Steins;Gate VR Scene/Build/0.0.2-alpha.apk
