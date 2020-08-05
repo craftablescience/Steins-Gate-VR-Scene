@@ -6,4 +6,4 @@ The actual lab .blend is not in this GitHub repo, because it is ~185MB, almost d
 
 [https://www.dropbox.com/sh/qx49skjqrhfuhl1/AAA-KKsQ8JCCRf0E4B4l3Iqza?dl=0](https://www.dropbox.com/sh/qx49skjqrhfuhl1/AAA-KKsQ8JCCRf0E4B4l3Iqza?dl=0)
 
-After that, using Unity 2019.3 the project will work.
+After that, using Unity 2019.2.21f1 the project will work.
